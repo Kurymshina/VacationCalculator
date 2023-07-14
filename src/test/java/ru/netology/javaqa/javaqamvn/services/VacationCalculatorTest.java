@@ -1,3 +1,5 @@
+package ru.netology.javaqa.javaqamvn.services;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.netology.javaqa.javaqamvn.services.VacationCalculator;
